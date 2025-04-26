@@ -1,3 +1,12 @@
+## Collaborators
+
+- Aminah Ahmed
+- Gillian Wood
+- Hanveer Grewal
+- Jonathan Newman
+- Riley Singfield
+
+
 # SWANG-Tech Beauty Catalog
 A Java SWING desktop application that allows users to manage beauty products. Includes functionality such as: 
 - Resister new users
@@ -74,6 +83,7 @@ View test reports in:
 ```
 target/surefire-reports/
 ```
+
 
 ## Troubleshooting
 - If Maven is not found, install it from [Maven Apache](https://maven.apache.org/download.cgi).
